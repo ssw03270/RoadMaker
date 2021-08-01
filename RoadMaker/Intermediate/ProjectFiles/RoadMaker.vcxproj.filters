@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RoadMaker.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{242426A7-37FC-4CBD-8296-929FECD2963D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RoadMaker.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RoadMakerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{805629FE-A1CA-4B16-A536-A14831D79EF0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RoadMaker">
+      <UniqueIdentifier>{8DC6B742-7124-4DD1-84AD-549EBDE5BDC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RoadMaker\RoadMaker.Build.cs">
+      <Filter>Source\RoadMaker</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RoadMaker\RoadMaker.cpp">
+      <Filter>Source\RoadMaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RoadMaker\RoadMaker.h">
+      <Filter>Source\RoadMaker</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RoadMaker\RoadMakerGameModeBase.cpp">
+      <Filter>Source\RoadMaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RoadMaker\RoadMakerGameModeBase.h">
+      <Filter>Source\RoadMaker</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

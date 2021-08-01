@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RoadMaker",
+			"Path": "D:\\GitHub\\RoadMaker\\RoadMaker\\Source\\RoadMaker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RoadMakerEditor",
+			"Path": "D:\\GitHub\\RoadMaker\\RoadMaker\\Source\\RoadMakerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
