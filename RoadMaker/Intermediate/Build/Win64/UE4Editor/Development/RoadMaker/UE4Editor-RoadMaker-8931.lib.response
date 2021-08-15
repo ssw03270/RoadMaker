@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RoadMaker-8931.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Desktop\RoadMaker\RoadMaker\Intermediate\Build\Win64\RoadMakerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\user\Desktop\RoadMaker\RoadMaker\Intermediate\Build\Win64\UE4Editor\Development\RoadMaker\RoadMaker.cpp.obj"
+"C:\Users\user\Desktop\RoadMaker\RoadMaker\Intermediate\Build\Win64\UE4Editor\Development\RoadMaker\RoadMakerGameModeBase.cpp.obj"
+"C:\Users\user\Desktop\RoadMaker\RoadMaker\Intermediate\Build\Win64\UE4Editor\Development\RoadMaker\RoadMaker.init.gen.cpp.obj"
+"C:\Users\user\Desktop\RoadMaker\RoadMaker\Intermediate\Build\Win64\UE4Editor\Development\RoadMaker\RoadMakerGameModeBase.gen.cpp.obj"
+"C:\Users\user\Desktop\RoadMaker\RoadMaker\Intermediate\Build\Win64\UE4Editor\Development\RoadMaker\Default.rc2.res"
+/OUT:"C:\Users\user\Desktop\RoadMaker\RoadMaker\Intermediate\Build\Win64\UE4Editor\Development\RoadMaker\UE4Editor-RoadMaker-8931.lib"
+/INCLUDE:IMPLEMENT_MODULE_RoadMaker
