@@ -1,0 +1,40 @@
+C:/Users/user/Desktop/RoadMaker/RoadMaker/Intermediate/Build/Win64/RoadMakerEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h
+C:/UE_4.26/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\CoreTypes.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/Build.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\sal.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\concurrencysal.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\initializer_list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\yvals_core.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vadefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xkeycheck.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstddef
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xtr1common
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\CoreFwd.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+C:\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\new
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\exception
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\crtdbg.h
